@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurpreet</h1>
 
 <p align="center">
-Flutter Developer • Hackathon Finalist • Backend Enthusiast
+Flutter Developer • Hackathon Finalist • Frontend Enthusiast
 </p>
 
 ---
