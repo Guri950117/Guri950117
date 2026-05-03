@@ -42,9 +42,12 @@ Advitiya IIT Ropar — SMART HUB (2026)
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guri950117&show_icons=true&cache_seconds=1800)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guri950117&theme=github_dark)
 
 ---
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guri950117&theme=github_dark)
 
 ### 💡 Strengths
 
