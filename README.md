@@ -18,17 +18,41 @@ Flutter Developer • Hackathon Finalist • Backend Enthusiast
 ### 🛠 Tech Stack
 Flutter • Dart • Firebase • FastAPI • Python • C++
 
+
 ---
 
-### 📂 Projects
-- 🚀 Fraud Detection App (Flutter + Firebase)  
-- 🚌 Real-time Bus Tracking App  
-- 📚 EdTech Fraud Simulation Platform  
+### 🏆 Hackathon Achievements
+
+🥈 **2nd Runner-Up (Nationwide)**  
+ISEA IIT Jammu — TRISHUL X (2025)  
+→ Built a fraud & phishing detection app using Flutter  
+
+🏅 **National Finalist (Top 5 Teams)**  
+Smart India Hackathon 2025 — LOCOBUS  
+→ Developed a real-time bus tracking system  
+
+🎯 **Top 30 (Punjab Level)**  
+Punjab & Sind Bank Hackathon — BACHTAGURU (2025)  
+→ Created an EdTech platform with fraud simulations  
+
+⚡ **Participant**  
+Advitiya IIT Ropar — SMART HUB (2026)  
+→ Worked on backend APIs and database integration  
 
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Guri950117&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guri950117&show_icons=true&cache_seconds=1800)
+
+---
+
+### 💡 Strengths
+
+![Flutter Development](https://img.shields.io/badge/Flutter%20Development-%F0%9F%93%B1-blue)
+![API Integration](https://img.shields.io/badge/API%20Integration-%F0%9F%94%97-green)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%F0%9F%A7%A0-orange)
+![Rapid Prototyping](https://img.shields.io/badge/Rapid%20Prototyping-%E2%9A%A1-yellow)
+![App Security](https://img.shields.io/badge/App%20Security-%F0%9F%94%92-red)
 
 ---
 
