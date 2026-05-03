@@ -9,7 +9,7 @@ Flutter Developer • Hackathon Finalist • Frontend Enthusiast
 ### 🚀 About Me
 - 🎓 2nd Year B.Tech CSE Student  
 - 📱 Building mobile apps using Flutter, Firebase & FastAPI  
-- 🧠 Interested in AI, Cybersecurity & Real-time systems  
+- 🧠 Interested in AI,App Development, Cybersecurity & Real-time systems  
 - 🏆 2nd Runner-Up – IIT Jammu Hackathon  
 - 🥇 Smart India Hackathon Finalist (Top 5 Teams)  
 
